@@ -1,1 +1,32 @@
-# super-system
+<!DOCtype html>
+<html>
+<head>
+<title> Sneaker World</title>
+</head>
+<body>
+<h1 id="logo">Sneaker Collecting</h1>
+<p> A <strong>sneakerhead</strong> is a person who collects, trades or admires sneakers as a hobby. A sneakerhead may also be highly experienced in distinguishing between real and fake replica sneakers. Sneaker collecting is a hobby often manifested by the use and collection of shoes made for particular sports, particularly basketball and skateboarding.
+</p>
+
+<p> The birth of sneakerhead culture in the United States came in the 1980s and can be attributed to two major sources: basketball, specifically the emergence of <em> Michael Jordan</em> and his eponymous Air Jordan line of shoes released in 1985, and the growth of hip hop music. The boom of signature basketball shoes during this era provided the sheer variety necessary for a collecting subculture, while the Hip-Hop movement gave the sneakers their street credibility as status symbols.[1] The sneakerhead culture has emerged in European nations such as the United Kingdom and the Czech Republic in the last decade.[2] </p>
+
+<h1>Styles and marketing</h1>
+<p>Store display of new release Nike sneakers.
+Several popular brands and styles of sneakers have emerged as collectors items in the sneakerhead subculture. Popular collections include Air Jordans, Air Force Ones, Nike Dunks, Nike Skateboarding (SB), Nike Foamposites, Nike Air Max, and in the past few years, the Nike Air Yeezy. Shoes that have the most value are usually exclusive or limited editions. Also certain color schemes may be rarer relative to others in the same sneaker, inflating desirability and value. Recently, sneaker customs, or one-of-a-kind sneakers that have been hand-painted, have become popular as well.
+
+Companies such as <a href="http://nike.com">Nike</a>, <a href="http://adidas.com">Adidas</a> , <a href="http://newbalance.com">New Balance</a> and <a href="http://reebok.com">Reebok</a> also have custom shops now where the user can choose from the color, custom lettering, and materials that they want, and they can be custom manufactured. Nike continues to use basketball stars to market new sneakers. In 2011 the Zoom Hyperdunk was introduced through Los Angeles Clippers sensation and 2010–11 NBA Rookie of the Year Blake Griffin. Nike has also employed celebrities from outside of the sports world to design and market new shoe lines. One example is the Nike Air Yeezy, designed by rapper Kanye West and released in 2009, as well as the Nike Air Yeezy II, released in 2012.[3] Skateboarding, since about 2005, has been a major player in the shoe collecting industry especially with the variety introduced with the Nike SB and Supra product lines. </p>
+<h1>Sneakerhead subculture</h1>
+<p>The sneakerhead subculture originated in America during the late 1980s and had gone global by the end of the 1990s. Hardcore sneaker collectors in Britain, Europe and the US trawl every outlet, sneaker event, swapmeet, party, and gathering in search of rare deadstock and limited edition shoes to invest in.[4] Originally popular among urban black youth and white skater boys, by the 21st century it had also gained a sizeable Asian following especially in Malaysia, [5] India, and China.[6]
+
+Common contemporary sneakerhead apparel includes Nike Air Jordans, Air Yeezys, Nike SBs, DC Spartans, Supra Sky-Tops, Vans, designer sportswear, True Religion slim fit jeans, backwards baseball caps, red high-tops with fluorescent or reflective white stars,[7] Skullcandy headphones, leggings, slouched crew socks, and Keds (for girls), Aviator sunglasses, waffle plaid shirts, throwback basketball singlets, tracksuits, Nike Elite socks, cosmic print T-shirts, hoodies, and Nixon watches.[8] Sneakerheads often customise their kicks by tieing their shoelaces in unconventional patterns, including cross-ways, laddered, and staggered.[9] As of 2016, the most desirable[10] colors for sneakers and apparel were black, red[11] and white[12] due to their longstanding association with late 80s new wave music, the Michael Jordan era of basketball,[13] and old school hip-hop.[14]
+</p>
+<h1>Sneakerhead slang</h1>
+<p>During the 2010s, teenage sneakerheads influenced by hip-hop fashion and the skater subculture began to develop their own jargon. Limited edition sneakers and prototypes with a regional early release, especially Nikes, became known as Quickstrikes,[15] and were highly desirable[16] status symbols for American sneaker collectors.[17] Other commonly used words included Bred (black and red sneakers), B Grade (shop-worn seconds sold at a discount),[18] Coke whites (pristine white sneakers), Crispy (clean), Deadstock (unworn vintage sneakers), Dope (fashionable), Fire (very good), Fresh (new and cool), Goat (greatest of all time), Garms (clothes), Grail (very rare sneakers, as in Holy Grail), GR (general release, or common), Heat (rare), Hypebeast (trendies who only buy the latest release), Jumpman (basketball player Michael Jordan), Ice (sneakers with transparent soles), Instacop (impulse buying), Kicks (shoes), Lit up (great), Nib (unworn, new in the box), OG (original), Reseller (a person who buys large quantities of unworn quickstrike sneakers to sell at a profit), Steezy (stylish), Unauthorised (counterfeit),[19] Wild (amazing), and Yeezy (sneakers designed by rapper Kanye West). [20]
+</p>
+<h1>Industry growth</h1>
+<p>The sneakerhead market has begun to manifest itself in different venues. The growth of online retailing and auction sites has armed sneaker collectors with better methods to hunt down the rarest shoes. Stores such as Suplex in Philadelphia, the online site HG Kicks found on HG Kicks.com, and Flight Club in New York City offer rare and exclusive sneakers, and take inventory in from the general public, selling sneakers on consignment. University of San Diego School of Law alumnus Jordan Geller opened the Shoezeum in the Old Town neighborhood of San Diego, a 9,000-square-foot (840 m2) gallery of collector sneakers. Foot Locker recently launched Sneakerpedia.com, a wiki based online community for shoe collectors.[21] NSB developed an online sneaker marketplace devoted to this niche.[22]</p>
+
+<p>Online sneakerhead trade has grown to such an extent that a large counterfeit supply chain has developed. As a part of their Student College program, Carnegie Mellon University has offered an official course in the history of sneaker collecting called Sneakerology 101.[23]
+</p>
+</body>
+</html>
